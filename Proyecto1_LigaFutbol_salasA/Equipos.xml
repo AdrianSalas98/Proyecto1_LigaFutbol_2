@@ -1,0 +1,26 @@
+<Equipos>
+	<Equipo>
+		<ID_Equipo>1</ID_Equipo>
+		<Nombre_Equipo>MovistarInter</Nombre_Equipo>
+	</Equipo>
+	<Equipo>
+		<ID_Equipo>2</ID_Equipo>
+		<Nombre_Equipo>Barsa</Nombre_Equipo>
+	</Equipo>
+	<Equipo>
+		<ID_Equipo>3</ID_Equipo>
+		<Nombre_Equipo>ElPozoMurcia</Nombre_Equipo>
+	</Equipo>
+	<Equipo>
+		<ID_Equipo>4</ID_Equipo>
+		<Nombre_Equipo>PalmaFutsal</Nombre_Equipo>
+	</Equipo>
+	<Equipo>
+		<ID_Equipo>5</ID_Equipo>
+		<Nombre_Equipo>OsasunaMagna</Nombre_Equipo>
+	</Equipo>
+	<Equipo>
+		<ID_Equipo>6</ID_Equipo>
+		<Nombre_Equipo>Valdepenas</Nombre_Equipo>
+	</Equipo>
+</Equipos>

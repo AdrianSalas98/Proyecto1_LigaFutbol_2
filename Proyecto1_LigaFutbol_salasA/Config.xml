@@ -1,0 +1,5 @@
+<Configuracion>
+	<Ruta equipos = "..\\Proyecto1_LigaFutbol_salasA\\Equipos.xml"></Ruta>
+	<Ruta jugadores = "..\\Proyecto1_LigaFutbol_salasA\\Jugadores.xml"></Ruta>
+	<Ruta bd = "jdbc:sqlite:../Proyecto1_LigaFutbol_salasA/ligafutbol.db"></Ruta>
+</Configuracion>

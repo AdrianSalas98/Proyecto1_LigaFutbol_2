@@ -1,0 +1,241 @@
+<Jugadores>
+	<Jugador>
+		<ID_Jugador>100</ID_Jugador>
+		<Nombre_Jugador>Alejandro Gonzalez Perez</Nombre_Jugador>
+		<Posicion>Portero</Posicion>
+		<ID_Equipo>1</ID_Equipo>
+		<Nombre_Equipo>MovistarInter</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>101</ID_Jugador>
+		<Nombre_Jugador>Marlon Oliveira Araujo</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>1</ID_Equipo>
+		<Nombre_Equipo>MovistarInter</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>102</ID_Jugador>
+		<Nombre_Jugador>Carlos Ortiz Jimenez</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>1</ID_Equipo>
+		<Nombre_Equipo>MovistarInter</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>103</ID_Jugador>
+		<Nombre_Jugador>Ricardo Filipe Da Silva Braga</Nombre_Jugador>
+		<Posicion>Ala</Posicion>
+		<ID_Equipo>1</ID_Equipo>
+		<Nombre_Equipo>MovistarInter</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>104</ID_Jugador>
+		<Nombre_Jugador>Jean Pierre Guisel Costa</Nombre_Jugador>
+		<Posicion>Pivot</Posicion>
+		<ID_Equipo>1</ID_Equipo>
+		<Nombre_Equipo>MovistarInter</Nombre_Equipo>
+	</Jugador>
+	
+		<Jugador>
+		<ID_Jugador>110</ID_Jugador>
+		<Nombre_Jugador>Alex Lluch Romeu</Nombre_Jugador>
+		<Posicion>Portero</Posicion>
+		<ID_Equipo>2</ID_Equipo>
+		<Nombre_Equipo>Barsa</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>111</ID_Jugador>
+		<Nombre_Jugador>Jesus Nazaret Aicardo Collantes</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>2</ID_Equipo>
+		<Nombre_Equipo>Barsa</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>112</ID_Jugador>
+		<Nombre_Jugador>Alejandro Ceron Albert</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>2</ID_Equipo>
+		<Nombre_Equipo>Barsa</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>113</ID_Jugador>
+		<Nombre_Jugador>Roger Serrano Bernat</Nombre_Jugador>
+		<Posicion>Ala</Posicion>
+		<ID_Equipo>2</ID_Equipo>
+		<Nombre_Equipo>Barsa</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>114</ID_Jugador>
+		<Nombre_Jugador>Carlos Vagner Gularte Filho</Nombre_Jugador>
+		<Posicion>Pivot</Posicion>
+		<ID_Equipo>2</ID_Equipo>
+		<Nombre_Equipo>Barsa</Nombre_Equipo>
+	</Jugador>
+	
+		<Jugador>
+		<ID_Jugador>120</ID_Jugador>
+		<Nombre_Jugador>Federico Perez Garrigos</Nombre_Jugador>
+		<Posicion>Portero</Posicion>
+		<ID_Equipo>3</ID_Equipo>
+		<Nombre_Equipo>ElPozoMurcia</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>121</ID_Jugador>
+		<Nombre_Jugador>Felipe Valerio Pascual</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>3</ID_Equipo>
+		<Nombre_Equipo>ElPozoMurcia</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>122</ID_Jugador>
+		<Nombre_Jugador>Leonardo Santana Da Silva</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>3</ID_Equipo>
+		<Nombre_Equipo>ElPozoMurcia</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>123</ID_Jugador>
+		<Nombre_Jugador>Antonio Fernando Aguilera Sancho</Nombre_Jugador>
+		<Posicion>Ala</Posicion>
+		<ID_Equipo>3</ID_Equipo>
+		<Nombre_Equipo>ElPozoMurcia</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>124</ID_Jugador>
+		<Nombre_Jugador>Shimizu Kazuya</Nombre_Jugador>
+		<Posicion>Pivot</Posicion>
+		<ID_Equipo>3</ID_Equipo>
+		<Nombre_Equipo>ElPozoMurcia</Nombre_Equipo>
+	</Jugador>
+	
+		<Jugador>
+		<ID_Jugador>130</ID_Jugador>
+		<Nombre_Jugador>Carlos Barron Redondo</Nombre_Jugador>
+		<Posicion>Portero</Posicion>
+		<ID_Equipo>4</ID_Equipo>
+		<Nombre_Equipo>PalmaFutsal</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>131</ID_Jugador>
+		<Nombre_Jugador>Manuel Urbano Cañete</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>4</ID_Equipo>
+		<Nombre_Equipo>PalmaFutsal</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>132</ID_Jugador>
+		<Nombre_Jugador>Rafael Lopez Expósito</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>4</ID_Equipo>
+		<Nombre_Equipo>PalmaFutsal</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>133</ID_Jugador>
+		<Nombre_Jugador>Diego Nunes De Souza Costa</Nombre_Jugador>
+		<Posicion>Ala</Posicion>
+		<ID_Equipo>4</ID_Equipo>
+		<Nombre_Equipo>PalmaFutsal</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>134</ID_Jugador>
+		<Nombre_Jugador>Diego Quintela Carril</Nombre_Jugador>
+		<Posicion>Pivot</Posicion>
+		<ID_Equipo>4</ID_Equipo>
+		<Nombre_Equipo>PalmaFutsal</Nombre_Equipo>
+	</Jugador>
+	
+		<Jugador>
+		<ID_Jugador>140</ID_Jugador>
+		<Nombre_Jugador>Asier Llamas Echeverria</Nombre_Jugador>
+		<Posicion>Portero</Posicion>
+		<ID_Equipo>5</ID_Equipo>
+		<Nombre_Equipo>OsasunaMagna</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>141</ID_Jugador>
+		<Nombre_Jugador>Roberto Martil Fernandez</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>5</ID_Equipo>
+		<Nombre_Equipo>OsasunaMagna</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>142</ID_Jugador>
+		<Nombre_Jugador>Oihan Sanchez San Martin</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>5</ID_Equipo>
+		<Nombre_Equipo>OsasunaMagna</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>143</ID_Jugador>
+		<Nombre_Jugador>Alberto Ferraz Barboza</Nombre_Jugador>
+		<Posicion>Ala</Posicion>
+		<ID_Equipo>5</ID_Equipo>
+		<Nombre_Equipo>OsasunaMagna</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>144</ID_Jugador>
+		<Nombre_Jugador>Diego Brandao Martins</Nombre_Jugador>
+		<Posicion>Pivot</Posicion>
+		<ID_Equipo>5</ID_Equipo>
+		<Nombre_Equipo>OsasunaMagna</Nombre_Equipo>
+	</Jugador>
+	
+		<Jugador>
+		<ID_Jugador>150</ID_Jugador>
+		<Nombre_Jugador>Pedro Coronado Quintana</Nombre_Jugador>
+		<Posicion>Portero</Posicion>
+		<ID_Equipo>6</ID_Equipo>
+		<Nombre_Equipo>Valdepenas</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>151</ID_Jugador>
+		<Nombre_Jugador>Jose Miguel Luis Cortes</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>6</ID_Equipo>
+		<Nombre_Equipo>Valdepenas</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>152</ID_Jugador>
+		<Nombre_Jugador>Rafael França Bezerra</Nombre_Jugador>
+		<Posicion>Cierre</Posicion>
+		<ID_Equipo>6</ID_Equipo>
+		<Nombre_Equipo>Valdepenas</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>153</ID_Jugador>
+		<Nombre_Jugador>Juan Cozar</Nombre_Jugador>
+		<Posicion>Ala</Posicion>
+		<ID_Equipo>6</ID_Equipo>
+		<Nombre_Equipo>Valdepenas</Nombre_Equipo>
+	</Jugador>
+	
+	<Jugador>
+		<ID_Jugador>154</ID_Jugador>
+		<Nombre_Jugador>Pablo Ibarra Fuertes</Nombre_Jugador>
+		<Posicion>Pivot</Posicion>
+		<ID_Equipo>6</ID_Equipo>
+		<Nombre_Equipo>Valdepenas</Nombre_Equipo>
+	</Jugador>
+</Jugadores>
